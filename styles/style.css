@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+body {
+    background-color: beige;
+    border: 50px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
